@@ -1,0 +1,10 @@
+{
+    "completed":"مكتمل",
+    "pending":"بالانتظار",
+    "cancelled":"ملغي",
+    "processing":"يتم التحضير",
+    "shipped":"جاري التوصيل",
+    "paid":"مدفوع",
+    "unpaid":"غير مدفوع",
+    "refund":"مسترجع"
+}
